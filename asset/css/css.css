@@ -1,0 +1,144 @@
+@charset "utf-8";
+/* CSS Document */
+
+.first-view{
+max-width: 100%;
+background-size: cover;
+}
+.absolute{
+	position: absolute;
+}
+.relative{
+	position: relative;
+}
+.text-position{
+	margin-left: 58%;
+    margin-top: -37%;
+}
+.paragraph{
+	padding: 1px !important;
+	padding-right: 28%;
+    display: inline;
+}
+.button1{
+	display: inline-block;
+    padding-left: 4%;
+    margin-right: -91%;
+}
+.h4{
+	margin-bottom: 14px;
+}
+.dark-blue{
+	color: #1A1061;
+}
+.card-image{
+	
+	width: 90px;
+	border-radius: 0px;
+}
+.align{
+	text-align: center;
+}
+.rtl{
+	direction: rtl;
+}
+.ltr{
+	direction: ltr;
+}
+.bold{
+	font-weight:bold;
+	font-size: 30px;
+}
+.dollar{
+width: 80px;
+transform: rotate(17.02deg);
+opacity: 0.7;
+filter: blur(2px);
+	
+}
+.counters::before{
+	content: "";
+	background:url(../img/Group.png);
+	display: inline;
+	text-align: center ;
+	position: absolute;	
+}
+#counters{
+	position: relative;
+}
+.bg-gray{
+	background-color: #F8F8F8;
+}
+.text-style{
+	font-size: 23px;
+	text-align:justify !important;
+	direction: rtl;
+	line-height: 60px;
+}
+.line-h-50{
+	line-height: 50px;
+}
+.text-style2{
+	font-size: 20px;
+	/*text-align:justify !important;*/
+	direction: rtl;
+	text-align: center;
+	line-height: 50px;
+}
+.center{
+	text-align:justify ;
+	text-align-last: center;
+}
+.bottom-border{
+	border-bottom:  3px solid #27BCC0;
+}
+.card-img-position{
+	top: -16%;
+    left: 39%;
+	width: 120px;
+}
+.card-img-border{
+	border: 7px solid #27BCC0;
+	border-radius: 100%;
+}
+.x{
+	border-width: 10px;
+}
+.span-bg{
+	background-color: rgba(39,188,192,0.51);
+}
+#shadow-hover:hover{
+	box-shadow: 0 1rem 2rem rgba(0,0,0,.176)
+}
+#color-hover:hover{
+	background-color: #1A1061 !important;
+}
+.txt-pos{
+	margin-top: -25%;
+}
+.txt-pos2{
+	margin-top: 10%;
+	
+}
+.bg-img{
+	background-image: url(../img/Vector.png);
+	widows: 100%;
+	height: 687px;
+	
+}
+.footer-bg{
+	background-image: url(../img/MaskGroup.png);
+	width: 100%;
+	height: 50%;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.padding-top1{
+	padding-top: 11%;
+}
+.padding-top2{
+	padding-top: 13%;
+}
+.logo{
+	width: 65px;
+}
